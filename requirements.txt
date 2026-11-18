@@ -1,0 +1,9 @@
+torch
+torchvision
+numpy
+pillow
+opencv-python-headless
+dominate      # used by BicycleGAN's HTML result pages
+lpips         # diversity / fidelity metrics in evaluate.py
+gradio>=4.0
+pytest
